@@ -6,9 +6,9 @@ VisiBike is a modular embedded system designed to be easily mounted on bicycles,
 ## Tools & Technologies
 * **Platform & Framework:** Mbed OS
 * **Programming Language:** C/C++
-* **Microcontroller:**  STM32 Nucleo
+* **Microcontroller:**  STM32  NUCLEO-F429ZI
 * **Hardware Prototyping:** Breadboard, Jumper Wires
-* **Components:** [Nhập linh kiện thực tế, ví dụ: Push Buttons, Red/Yellow LEDs, Resistors...]
+* **Components:** Push Buttons, LED, Motor Driver-TB6612FNG, Battery 9V.
 
 ## System Architecture & Firmware Logic
 The core of VisiBike revolves around a control logic written in C/C++ that manages inputs and timing functions without blocking the main execution loop.
