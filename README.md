@@ -16,14 +16,12 @@ The core of VisiBike revolves around a control logic written in C/C++ that manag
 * **Processing:** The Mbed microcontroller processes these inputs to determine the current signaling state (e.g., Idle, Turning Left, Turning Right, Warning).
 * **Outputs:** The GPIO pins drive the corresponding LED arrays to visually communicate the rider's intent clearly to surrounding traffic.
 
-*(Paste your block diagram or software flowchart image here)*
-![System Architecture](link_anh_so_do_khoi_cua_ban.png)
+![image](https://github.com/Hudo1501/VisiBike-Embedded-System/blob/main/block_diagram.jpg)
 
 ## Hardware Implementation (Breadboard Prototype)
 Before committing to a physical PCB, the circuit was successfully assembled and verified on a breadboard. The implementation focused on correct GPIO interfacing, managing power distribution for multiple LED indicators, and ensuring robust wiring for a dynamic, vibration-prone environment like a moving bicycle.
 
-*(Paste your breadboard circuit images here)*
-![Breadboard Prototype](link_anh_mach_breadboard_thuc_te.png)
+![image](https://github.com/Hudo1501/VisiBike-Embedded-System/blob/main/breadboard.jpg)
 
 ## My Contribution
 Working within a 5-member cross-functional team, my core responsibilities included:
