@@ -25,6 +25,5 @@ Before committing to a physical PCB, the circuit was successfully assembled and 
 
 ## My Contribution
 Working within a 5-member cross-functional team, my core responsibilities included:
-* **Firmware Development:** Writing and debugging the C/C++ control logic using the Mbed compiler.
 * **Hardware Prototyping:** Wiring the breadboard circuit and interfacing the Mbed microcontroller with external input/output peripherals.
 * **System Integration:** Validating the communication between software commands and hardware responses to ensure zero-latency signaling.
